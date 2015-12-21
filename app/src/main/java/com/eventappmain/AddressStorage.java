@@ -1,7 +1,7 @@
 package com.eventappmain;
 
 /**
- * Created by Vicky on 03-Oct-15.
+ * Created by Sai on 03-Oct-15.
  */
 public class AddressStorage {
 
